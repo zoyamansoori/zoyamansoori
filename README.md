@@ -39,7 +39,7 @@ I’m a passionate Software Developer who loves transforming ideas into robust, 
 ## 📬 Get in Touch
 
 - **LinkedIn**: [Zoya Mansoori](https://www.linkedin.com/in/zoya-mansoori)
-- **Email**: [mansoorizoya2318@gmail.com](mailto:mansoorizoya2318@gmail.com)
+- **Email**: [zoyamansoori.tech@gmail.com](mailto:zoyamansoori.tech@gmail.com)
 
 ✨ I’m always eager to collaborate on meaningful projects and contribute to impactful software solutions. Let’s connect, build, and grow together in this ever-evolving world of technology! 🚀
 
