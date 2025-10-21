@@ -1,30 +1,50 @@
+# 👋 Hi there, I'm Zoya Mansoori
 
-# Hi there, I'm Zoya Mansoori! 👋
+Welcome to my GitHub profile!  
+I’m a passionate Software Developer who loves transforming ideas into robust, scalable, and user-friendly applications. With hands-on experience in **Angular** and **.NET Core**, I enjoy building complete solutions — from beautiful frontends to powerful backend systems.
 
-Welcome to my GitHub profile! I'm currently learning .NET Core and I'm passionate about building software and exploring the fascinating world of technology. Here's a bit about me:
+## 🚀 About Me
 
-- 🔭 I’m currently working on honing my .NET Core skills and building practical projects.
-- 🌱 I’m currently learning more about software development.
-- 💡 I love to explore new technologies and frameworks to expand my knowledge and enhance my coding skills.
-- 📚 I enjoy reading tech blogs and staying up-to-date with the latest trends in technology.
-- 💬 Feel free to reach out to me if you have any questions or just want to chat about technology and software development!
+💻 I’m currently deepening my skills in **.NET Core** and building real-world projects that strengthen my full-stack expertise.
 
-## Languages and Tools:
-Here are some of the languages and tools I'm familiar with:
+🌱 I’m passionate about **frontend development** — crafting clean, responsive, and high-performing UIs using **Angular**, **HTML**, **CSS**, **JavaScript**, and **TypeScript**.
 
-- .NET Core
-- C#
-- Visual Studio
-- Git
-- HTML/CSS
-- JavaScript
+💡 I love exploring new technologies, design patterns, and frameworks to write better, more maintainable code.
 
-## Get in Touch:
-- LinkedIn: [Zoya Mansoori](www.linkedin.com/in/zoya-mansoori)
-- Email: [mansoorizoya2318@gmail.com](mansoorizoya2318@gmail.com)
-- Twitter: [@ZoyaInTech](https://twitter.com/@ZoyaInTech)
+🛠️ I believe in **clean architecture**, **collaboration**, and **constant learning**.
 
-I'm always open to connecting with fellow developers, so feel free to reach out. Let's learn and grow together in the exciting world of software development! 😄
+🤝 Always open to connecting, collaborating, and learning from the developer community!
+
+## 🧠 Languages and Tools
+
+### Frontend:
+- **Angular**
+- **HTML**, **CSS**, **JavaScript**, **TypeScript**
+
+### Backend:
+- **.NET Core**
+- **C#**
+
+### Tools & Platforms:
+- **Visual Studio**
+- **Git**
+- **Azure AD**, **MSAL**
+
+### Other Interests:
+- **UI/UX design**
+- **API integration**
+- **Automation using UI Path**
+
+
+## 📬 Get in Touch
+
+- **LinkedIn**: [Zoya Mansoori](https://www.linkedin.com/in/zoya-mansoori)
+- **Email**: [mansoorizoya2318@gmail.com](mailto:mansoorizoya2318@gmail.com)
+
+✨ I’m always eager to collaborate on meaningful projects and contribute to impactful software solutions. Let’s connect, build, and grow together in this ever-evolving world of technology! 🚀
+
+
+
 <!---
 zoyamansoori/zoyamansoori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
